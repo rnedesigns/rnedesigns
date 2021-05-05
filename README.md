@@ -9,7 +9,7 @@ Some of the technical articles I have written on Data Analysis & Database with P
 
 During my free time, I will embrace contribution and participation in the coding community activities:
 * Contributed on the content refinement of Data Science curriculum project.
-* Moderation, preparing slides and presenting them for the Python events.. 
+* Moderation, preparing slides and presenting them in the Python events.. 
 
 Participated in the Hackathon project of Data Analysis by Women in Data and TruCue team. That was to analyse provided covid19 dataset. I contributed by adding additional sets for further support and to prepare the report, visualization graphs and presentation about the descriptive and some of diagnostic parts of the analysis. Worked with Python, Jupyter Notebook, Excel and Tableau. It was a great experience to meet new people and team!
 

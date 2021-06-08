@@ -8,8 +8,13 @@ Some of the technical articles I have written on Data Analysis & Database with P
 * **MongoDB with Python**: https://ramya-n.medium.com/mongodb-nosql-and-python-25b4956a591
 * **Testing Python Functions**: https://ramya-n.medium.com/testing-python-functions-d4d5dbcb1586
 * **From Text to Speech**: https://ramya-n.medium.com/transform-text-data-into-audio-file-60cfa155958c
+* Vlogs:
+  > Import CSV file to MySQL Database via MySQL Workbench @ https://www.youtube.com/watch?v=cgc1Zky-flc
+  
+  > Sentiment Analysis & EDA using Python, NLP & NLTK library @ https://www.youtube.com/watch?v=cqbimjZjWH4
 
 During my free time, I will embrace contribution and participation in the coding community activities:
+* Contributing/helping on video & audio editing of coding materials and tech topics for NGO organization & Volunteering..
 * Contributed on the content refinement of Data Science curriculum project.
 * Moderation, preparing slides and presenting them in the Python events.. 
 

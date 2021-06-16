@@ -6,6 +6,7 @@ Some of the technical articles I have written on Data Analysis & Database with P
 * **EDA with MySQL**: https://medium.com/geekculture/eda-with-sql-mysql-4ac1ea1d977b
 * **Ways to Communicate with MySQL**: https://ramya-n.medium.com/to-interact-with-mysql-database-4f7e75e764d5 
 * **MongoDB with Python**: https://ramya-n.medium.com/mongodb-nosql-and-python-25b4956a591
+* **Humans vs AI by humans and for humans**: https://ramya-n.medium.com/human-beings-and-ai-applications-8522757ddffa
 * **Testing Python Functions**: https://ramya-n.medium.com/testing-python-functions-d4d5dbcb1586
 * **From Text to Speech**: https://ramya-n.medium.com/transform-text-data-into-audio-file-60cfa155958c
 * Vlogs:

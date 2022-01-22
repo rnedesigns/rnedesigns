@@ -13,6 +13,8 @@ Some of the technical articles I have written on Data Analysis & Database with P
   > Import CSV file to MySQL Database via MySQL Workbench @ https://www.youtube.com/watch?v=cgc1Zky-flc
   
   > Sentiment Analysis & EDA using Python, NLP & NLTK library @ https://www.youtube.com/watch?v=cqbimjZjWH4
+  
+  > Data Analysis with Python, Plotly and Dash @ https://www.youtube.com/watch?v=r1Ai_HcVSBU&t=6s 
 
 During my free time, I will embrace contribution and participation in the coding community activities:
 * Contributing/helping on video & audio editing of coding materials and tech topics for NGO organization & Volunteering..

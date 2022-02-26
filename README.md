@@ -10,6 +10,10 @@ Some of the technical articles I have written on Data Analysis & Database with P
 * **Testing Python Functions**: https://ramya-n.medium.com/testing-python-functions-d4d5dbcb1586
 * **From Text to Speech**: https://ramya-n.medium.com/transform-text-data-into-audio-file-60cfa155958c
 * Vlogs:
+  > Development to Deployment with Python @ https://www.youtube.com/watch?v=rm9Tv3RNYME
+  
+  > MongoDB with Python @ https://youtu.be/8ggwv9IPNGk
+  
   > Import CSV file to MySQL Database via MySQL Workbench @ https://www.youtube.com/watch?v=cgc1Zky-flc
   
   > Sentiment Analysis & EDA using Python, NLP & NLTK library @ https://www.youtube.com/watch?v=cqbimjZjWH4
